@@ -13,7 +13,7 @@ If you haven't Mongo you can get it by docker
 `$ docker run --name some-mongo -p 27017:27017 -d mongo`
 
 
-###Usage
+### Usage
 
     <?php
         // define APP_DIR location
